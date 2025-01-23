@@ -1,2 +1,2 @@
 # Student-Attendance-System
-Attendance Marking Application
+This is an Attendance Marking Application
